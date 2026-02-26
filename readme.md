@@ -1,39 +1,30 @@
-# 🌌 Welcome to Syaddad's Orbit
+# 👋 hi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Solving+Physics+Problems+with+Code;Building+MacPulse+in+Swift;Exploring+AI+Agents+%26+RL" alt="Typing SVG" />
-</p>
-
----
-
-### 🔭 Current Focus
-* **Physics**: Diving deep into **Classical Mechanics** (The Theoretical Minimum).
-* **Development**: Building **MacPulse**, an open-source macOS activity tracker.
-* **Workflow**: Mastering **Neovim**, **Ghostty**, and **Zed** as a solo developer.
-* **Mission**: Contributing at least one Pull Request per week to open source.
-
-### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zed-Editor-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsyaddad&show_icons=true&theme=tokyonight&count_private=true" alt="Syaddad's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsyaddad&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
-</p>
+My name is Muhammad Syaddad, currently a second-year **Physics** student at an Indonesian university. I spend most of my time on software stuff (I do full stack pretty much); if not doing software, I'm learning **Physics** or **ML** (I think it's kinda cool).
 
----
 
-### 🌐 Let's Connect
-* **Website**: [syaddad.xyz](https://syaddad.xyz)
-* **Philosophy**: "Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius
+### 🔭 Current Focus
+* **Full stack dev**: Diving deep into the **craftsmanship** of software.
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=muhammadsyaddad&color=39FF14" alt="Views" />
-</p>
+### 👀 Side Focus
+* **Physics**: I'm a second-year major in **Physics** (I don't think college is that busy in reality ).
+* **ML**: Make intelligence a commodity.
+
+
+### 🚀 Projects
+
+* **[Eval](https://github.com/muhammadsyaddad/Skolaro)** A tracking app built for Mac native, basically using models to track what you're doing on your laptop.
+
+* **[Beasiswa Page](https://github.com/muhammadsyaddad/Skolaro)** A full-stack application built for "beasiswa" aka scholarship.
+
+* **[Beasiswa Scraper](https://github.com/muhammadsyaddad/beasiswa-scraper-)** The **machine** scraper for Skolaro (scholarship website).
