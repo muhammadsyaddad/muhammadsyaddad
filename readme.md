@@ -31,6 +31,7 @@
 
 ---
 
+<details>
 <summary><b>Random Facts</b></summary>
 - I think the way intelegent sell as commidity is dem cool.
 </details>
