@@ -25,9 +25,9 @@
 
 ### 🚀 Projects
 
-* **[Eval](https://github.com/muhammadsyaddad/Skolaro)** - A tracking app built for macOS native; uses models to track your laptop activity (is ocr model).
-* **[Beasiswa Page](https://github.com/muhammadsyaddad/Skolaro)** - A full-stack application built for scholarship management.
-* **[Beasiswa Scraper](https://github.com/muhammadsyaddad/beasiswa-scraper-)** - The machine scraper engine for the Skolaro platform.
+* 🖥️ **[Eval](https://github.com/muhammadsyaddad/Skolaro)** — macOS native tracking app. Uses models to monitor activity and productivity.
+* 🎓 **[Beasiswa Page](https://github.com/muhammadsyaddad/Skolaro)** — Full-stack scholarship platform (Skolaro) for managing applications. 
+* 🕷️ **[Beasiswa Scraper](https://github.com/muhammadsyaddad/beasiswa-scraper-)** — High-performance machine scraper for scholarship data.
 
 ---
 
